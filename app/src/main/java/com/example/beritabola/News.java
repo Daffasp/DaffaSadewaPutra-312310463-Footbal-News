@@ -1,17 +1,18 @@
 package com.example.beritabola;
 
 public class News {
+
     private String title;
     private String content;
     private String summary;
-    private String imageUrl;  // URL gambar
+    private String imageUrl;
 
-    // Konstruktor dengan 4 parameter
+    // Constructor
     public News(String title, String content, String summary, String imageUrl) {
         this.title = title;
         this.content = content;
         this.summary = summary;
-        this.imageUrl = imageUrl;  // Menginisialisasi imageUrl
+        this.imageUrl = imageUrl;
     }
 
     // Getter untuk title
@@ -29,4 +30,8 @@ public class News {
         return summary;
     }
 
+    // Getter untuk imageUrl
+    public String getImageUrl() {
+        return imageUrl;
+    }
 }

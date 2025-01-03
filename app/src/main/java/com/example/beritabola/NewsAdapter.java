@@ -37,17 +37,19 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.NewsViewHolder
 
         // Memuat gambar menggunakan Glide
         Glide.with(context)
-                .load(news.getImageUrl())  // Menggunakan URL gambar
+                .load(R.drawable.gasing)  // Menyimpan ID gambar drawable
                 .into(holder.newsImageView);
+
 
         // Menambahkan listener klik untuk item
         holder.itemView.setOnClickListener(v -> {
             Intent intent = new Intent(context, DetailActivity.class);
             intent.putExtra("title", news.getTitle());
             intent.putExtra("summary", news.getSummary());
-            intent.putExtra("image", news.getImageUrl());
+            intent.putExtra("image", R.drawable.madrid);  // Masukkan ID drawable di sini
             context.startActivity(intent);
         });
+
     }
 
     @Override
