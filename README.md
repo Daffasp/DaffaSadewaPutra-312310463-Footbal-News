@@ -34,10 +34,12 @@ Aplikasi Berita Bola adalah sebuah aplikasi Android yang menyediakan berita terb
 ## Progres yang sudah di perbaru pada Berita Bola
 ## Splash screen
 ![image](https://github.com/user-attachments/assets/e6bf532a-c0da-4555-88b0-68eabcd0daeb)
+
 Pada bagian ini saya mengubah warna nya sedikit menjadi warna putih yang sebelumnya berwarna merah,Dengan tampilan yang tertera pada gambar tersebut.
 
 Beranda Home
 ![image](https://github.com/user-attachments/assets/c805c755-005d-4bf8-8047-89cc1e60caba)
+
 Lalu di bagian Home nya sudah terlihat beberapa berita,Dan sudah di update yang awalnya hanya tiga saya tambahkan lagi jadi enam berita agar terlihat lebih menarik dan munculnya gambar pada berita tersebut.
 
 
