@@ -46,6 +46,8 @@ Lalu di bagian Home nya sudah terlihat beberapa berita,Dan sudah di update yang 
 ![Screenshot 2025-01-04 163910](https://github.com/user-attachments/assets/7ddf25aa-ce56-4e27-834e-c13dd568f149)
 ![Screenshot 2025-01-04 163935](https://github.com/user-attachments/assets/3314c739-5b04-4eb0-a715-648ca5b6d778)
 ![Screenshot 2025-01-04 164014](https://github.com/user-attachments/assets/dfcfa257-421e-45aa-a3a1-3a315447f180)
+![image](https://github.com/user-attachments/assets/88297b62-b9ee-42a7-b210-05759a3af384)
+
 
 
 
