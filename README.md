@@ -29,7 +29,9 @@ Aplikasi Berita Bola adalah sebuah aplikasi Android yang menyediakan berita terb
 
 ## UI/UX Preview
 ![image](https://github.com/user-attachments/assets/3ab04223-7092-4310-b8e2-0861710a15b9)
-![image](https://github.com/user-attachments/assets/a67a7191-89b5-4589-8b8e-bf4f00803c82)
+![image](https://github.com/user-attachments/assets/26112a57-1d7d-4434-b0be-0ed249b747f2)
+
+
 
 
 
