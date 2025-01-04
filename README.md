@@ -8,3 +8,5 @@
 | **Mata Kuliah** | Pemrograman Website |
 
 ## Footbal News
+## Aplikasi Berita Bola
+Aplikasi Berita Bola adalah sebuah aplikasi Android yang menyediakan berita terbaru seputar dunia sepak bola. Aplikasi ini dirancang untuk memudahkan pengguna dalam mendapatkan informasi terkini.
