@@ -48,6 +48,30 @@ Terima kasih telah menggunakan aplikasi **Berita Bola**! ⚽
 
 ## UI/UX Preview
 ![image](https://github.com/user-attachments/assets/3ab04223-7092-4310-b8e2-0861710a15b9)
+## Desain UI & UX
+
+### Panduan Desain
+
+- **Judul Aplikasi**: Football News  
+  Menekankan tema sepak bola dengan tampilan minimalis dan profesional.
+
+- **UI & UX**:  
+  Dirancang untuk memberikan pengalaman pengguna yang nyaman dan mudah digunakan.
+
+### Elemen Desain
+
+1. **Warna Utama**:  
+   - **Merah (#FF0000)**: Memberikan kesan energik dan bersemangat, merepresentasikan gairah sepak bola.  
+   - **Hitam (#000000)**: Digunakan untuk teks utama dan elemen kontras, memberikan kesan elegan.  
+   - **Putih (#FFFFFF)**: Digunakan sebagai aksen untuk memberikan kesan bersih dan modern.
+
+2. **Font**:  
+   - **Inter**: Font ini dipilih untuk teks karena tampilannya yang bersih, mudah dibaca, dan modern, cocok untuk aplikasi berita.
+
+---
+
+Dengan elemen desain ini, aplikasi **Football News** memiliki tampilan yang selaras dengan temanya, menciptakan pengalaman yang optimal bagi pengguna.
+
 ![image](https://github.com/user-attachments/assets/26112a57-1d7d-4434-b0be-0ed249b747f2)
 
 ## Progres yang sudah di perbaru pada Berita Bola
