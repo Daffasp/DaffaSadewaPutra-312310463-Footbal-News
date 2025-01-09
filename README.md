@@ -164,6 +164,10 @@ Desain ini mengutamakan kenyamanan pengguna dalam menjelajahi berita, dengan tam
 ## Isi berita
 ![Screenshot 2025-01-04 163910](https://github.com/user-attachments/assets/7ddf25aa-ce56-4e27-834e-c13dd568f149)
 ![Screenshot 2025-01-04 163935](https://github.com/user-attachments/assets/3314c739-5b04-4eb0-a715-648ca5b6d778)
+![Screenshot 2025-01-04 164014](https://github.com/user-attachments/assets/340795cb-53c0-4178-ab1e-0d3a1f94bc0f)
+![Screenshot 2025-01-04 172324](https://github.com/user-attachments/assets/1516a2c6-b36d-4f40-8061-635272a905a5)
+
+
 # Aplikasi Berita Bola
 
 Aplikasi ini menyediakan berbagai berita terbaru mengenai dunia sepak bola. Pengguna dapat melihat daftar berita di halaman utama (home) dan mengklik setiap berita untuk membaca detailnya. Berikut adalah contoh isi berita yang tersedia:
