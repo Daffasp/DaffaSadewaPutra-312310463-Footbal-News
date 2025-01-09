@@ -127,7 +127,39 @@ Dengan desain ini, aplikasi **Football News** tetap menjaga fungsionalitasnya sa
 ## Beranda Home
 ![image](https://github.com/user-attachments/assets/c805c755-005d-4bf8-8047-89cc1e60caba)
 
-Lalu di bagian Home nya sudah terlihat beberapa berita,Dan sudah di update yang awalnya hanya tiga saya tambahkan lagi jadi enam berita agar terlihat lebih menarik dan munculnya gambar pada berita tersebut.
+## Halaman Home - Football News
+
+Halaman **Home** dari aplikasi **Football News** dirancang untuk memberikan akses cepat dan mudah kepada pengguna untuk melihat berita terbaru tentang sepak bola.
+
+### Desain Halaman Home
+
+1. **Header**:  
+   - **Teks Utama**: "Berita bola" dan "football news".  
+   - **Warna**:  
+     - Latar belakang merah cerah dengan gradien putih di bagian bawah, memberikan kontras yang menarik.  
+     - Teks berwarna putih, membuatnya mudah dibaca dan menonjol.
+
+2. **Daftar Berita**:  
+   - Setiap berita ditampilkan dalam format daftar vertikal.  
+   - Elemen berita meliputi:  
+     - **Gambar berita**: Menampilkan visual yang relevan untuk menarik perhatian pengguna.  
+     - **Judul berita**: Menyediakan deskripsi singkat, seperti:  
+       - "Manchester united kalah di pertandingan terkini"  
+       - "Transfer pemain terbaru: Real Madrid"  
+       - "Prediksi timnas Indonesia melawan Arab Saudi"  
+       - Dan lainnya.  
+   - Latar belakang kotak berita berwarna abu-abu muda untuk memberikan tampilan bersih dan terorganisir.
+
+### Fungsi
+- **Navigasi**:  
+  Setiap item berita dapat diklik, membawa pengguna ke halaman detail berita.  
+- **Tujuan**:  
+  Memberikan pengalaman pengguna yang sederhana, informatif, dan estetis untuk membaca berita sepak bola.
+
+---
+
+Desain ini mengutamakan kenyamanan pengguna dalam menjelajahi berita, dengan tampilan yang modern, minimalis, dan responsif.
+
 
 ## Isi berita
 ![Screenshot 2025-01-04 163910](https://github.com/user-attachments/assets/7ddf25aa-ce56-4e27-834e-c13dd568f149)
