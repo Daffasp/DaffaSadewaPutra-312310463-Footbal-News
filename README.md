@@ -107,7 +107,22 @@ Desain ini memastikan pengalaman pengguna yang intuitif, sederhana, namun tetap 
 ## Splash screen
 ![image](https://github.com/user-attachments/assets/e6bf532a-c0da-4555-88b0-68eabcd0daeb)
 
-Pada bagian ini saya mengubah warna nya sedikit menjadi warna putih yang sebelumnya berwarna merah,Dengan tampilan yang tertera pada gambar tersebut.
+## Desain Halaman Aplikasi
+
+Berikut adalah rancangan desain halaman aplikasi **Football News** dengan pembaruan pada warna:
+
+### 1. **Splash Screen**
+- **Desain**:  
+  Halaman awal aplikasi dengan latar belakang berwarna merah muda dan logo aplikasi di tengah.  
+  **Tujuan**: Memberikan kesan pertama yang profesional dan menarik bagi pengguna saat membuka aplikasi.
+
+---
+
+**Catatan Pembaruan Desain**  
+Warna header pada halaman **Home** dan **Berita** telah diubah menjadi **putih**, memberikan nuansa yang lebih elegan dan profesional sesuai tampilan pada gambar.
+
+Dengan desain ini, aplikasi **Football News** tetap menjaga fungsionalitasnya sambil memberikan pengalaman visual yang lebih modern dan user-friendly.
+
 
 ## Beranda Home
 ![image](https://github.com/user-attachments/assets/c805c755-005d-4bf8-8047-89cc1e60caba)
