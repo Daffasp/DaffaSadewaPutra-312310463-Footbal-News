@@ -164,6 +164,46 @@ Desain ini mengutamakan kenyamanan pengguna dalam menjelajahi berita, dengan tam
 ## Isi berita
 ![Screenshot 2025-01-04 163910](https://github.com/user-attachments/assets/7ddf25aa-ce56-4e27-834e-c13dd568f149)
 ![Screenshot 2025-01-04 163935](https://github.com/user-attachments/assets/3314c739-5b04-4eb0-a715-648ca5b6d778)
+# Aplikasi Berita Bola
+
+Aplikasi ini menyediakan berbagai berita terbaru mengenai dunia sepak bola. Pengguna dapat melihat daftar berita di halaman utama (home) dan mengklik setiap berita untuk membaca detailnya. Berikut adalah contoh isi berita yang tersedia:
+
+---
+
+## **1. Manchester United Kalah di Pertandingan Terkini**
+
+- **Deskripsi Singkat**: Artikel ini membahas kekalahan Manchester United dalam Liga Inggris 2022/2023 saat melawan Newcastle United di St. James' Park. Berita mengulas faktor-faktor kekalahan, termasuk performa pemain dan hasil skor akhir.
+
+---
+
+## **2. Transfer Pemain Terbaru: Real Madrid**
+
+- **Deskripsi Singkat**: Real Madrid berhasil mendatangkan pemain bintang baru, yang menjadi sorotan di bursa transfer. Artikel ini memberikan detail mengenai pemain baru tersebut, seperti posisi, harga transfer, dan dampaknya bagi tim.
+
+---
+
+## **3. Prediksi Pertandingan Indonesia Melawan Arab Saudi**
+
+- **Deskripsi Singkat**: Berita ini menyajikan prediksi pertandingan antara Timnas Indonesia dan Arab Saudi. Artikel membahas performa tim, pemain kunci, dan peluang Indonesia di kompetisi yang sedang berlangsung.
+
+---
+
+## **4. Liverpool Menang Dramatis di Injury Time**
+
+- **Deskripsi Singkat**: Artikel ini menceritakan kemenangan dramatis Liverpool dalam pertandingan terbaru mereka. Gol penentu terjadi di injury time, dan berita mengulas jalannya pertandingan serta momen penting lainnya.
+
+---
+
+## **Fitur Utama**
+
+- **Daftar Berita**: Halaman utama menampilkan judul berita dengan gambar dan ringkasan singkat.
+- **Klik untuk Detail**: Pengguna dapat mengklik setiap berita untuk membaca artikel lengkapnya.
+- **Kategori**: Berita mencakup berbagai kategori seperti pertandingan, transfer pemain, prediksi, dan hasil pertandingan.
+
+---
+
+Aplikasi ini memudahkan penggemar sepak bola untuk mendapatkan berita terbaru secara cepat dan ringkas!
+
 
 
 
