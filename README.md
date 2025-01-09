@@ -72,6 +72,36 @@ Terima kasih telah menggunakan aplikasi **Berita Bola**! ⚽
 Dengan elemen desain ini, aplikasi **Football News** memiliki tampilan yang selaras dengan temanya, menciptakan pengalaman yang optimal bagi pengguna.
 
 ![image](https://github.com/user-attachments/assets/26112a57-1d7d-4434-b0be-0ed249b747f2)
+## Desain Halaman Aplikasi
+
+Berikut adalah rancangan desain halaman aplikasi **Football News**:
+
+### 1. **Splash Screen**
+- **Desain**:  
+  Halaman awal aplikasi dengan latar belakang berwarna merah muda dan logo aplikasi di tengah.  
+  **Tujuan**: Memberikan kesan pertama yang profesional dan menarik bagi pengguna saat membuka aplikasi.
+
+### 2. **Home**
+- **Desain**:  
+  Halaman utama menampilkan daftar berita sepak bola dalam bentuk daftar vertikal. Setiap berita mencakup:  
+  - Gambar berita.  
+  - Judul singkat berita.  
+  **Tujuan**: Memberikan akses cepat ke berita terbaru dengan desain yang ringkas dan informatif.
+
+### 3. **Halaman Berita**
+- **Desain**:  
+  Halaman detail untuk setiap berita yang berisi:  
+  - Gambar berita dengan latar belakang merah di bagian header.  
+  - Isi berita lengkap yang menjelaskan informasi lebih mendalam.  
+  **Tujuan**: Menyediakan informasi mendetail untuk setiap berita yang dipilih oleh pengguna.
+
+### Navigasi
+- Pengguna dapat memilih berita di halaman **Home**, yang akan membawa mereka ke halaman detail berita.
+
+---
+
+Desain ini memastikan pengalaman pengguna yang intuitif, sederhana, namun tetap menarik, sehingga pengguna dapat fokus pada konten berita sepak bola.
+
 
 ## Progres yang sudah di perbaru pada Berita Bola
 ## Splash screen
